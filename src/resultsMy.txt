@@ -1,0 +1,121 @@
+javac *.java
+[1, 320, 50, 70000]
+Non-GUI Mode
+computation time: 165 seconds 666 milliseconds
+collisions: 57200
+[2, 320, 50, 70000]
+Non-GUI Mode
+computation time: 174 seconds 454 milliseconds
+collisions: 48527
+[4, 320, 50, 70000]
+Non-GUI Mode
+computation time: 116 seconds 968 milliseconds
+collisions: 62719
+[8, 320, 50, 70000]
+Non-GUI Mode
+computation time: 145 seconds 256 milliseconds
+collisions: 63260
+[16, 320, 50, 70000]
+Non-GUI Mode
+computation time: 126 seconds 749 milliseconds
+collisions: 52807
+[32, 320, 50, 70000]
+Non-GUI Mode
+computation time: 144 seconds 741 milliseconds
+collisions: 58340
+[1, 320, 50, 70000]
+Non-GUI Mode
+computation time: 170 seconds 518 milliseconds
+collisions: 63296
+[2, 320, 50, 70000]
+Non-GUI Mode
+computation time: 171 seconds 280 milliseconds
+collisions: 67820
+[4, 320, 50, 70000]
+Non-GUI Mode
+computation time: 145 seconds 6 milliseconds
+collisions: 56961
+[8, 320, 50, 70000]
+Non-GUI Mode
+computation time: 125 seconds 555 milliseconds
+collisions: 67624
+[16, 320, 50, 70000]
+Non-GUI Mode
+computation time: 126 seconds 611 milliseconds
+collisions: 63142
+[32, 320, 50, 70000]
+Non-GUI Mode
+computation time: 144 seconds 244 milliseconds
+collisions: 43706
+[1, 320, 50, 70000]
+Non-GUI Mode
+computation time: 173 seconds 667 milliseconds
+collisions: 53148
+[2, 320, 50, 70000]
+Non-GUI Mode
+computation time: 174 seconds 180 milliseconds
+collisions: 49626
+[4, 320, 50, 70000]
+Non-GUI Mode
+computation time: 144 seconds 717 milliseconds
+collisions: 52076
+[8, 320, 50, 70000]
+Non-GUI Mode
+computation time: 149 seconds 937 milliseconds
+collisions: 53795
+[16, 320, 50, 70000]
+Non-GUI Mode
+computation time: 150 seconds 626 milliseconds
+collisions: 57747
+[32, 320, 50, 70000]
+Non-GUI Mode
+computation time: 165 seconds 65 milliseconds
+collisions: 55344
+[1, 320, 50, 70000]
+Non-GUI Mode
+computation time: 168 seconds 756 milliseconds
+collisions: 48407
+[2, 320, 50, 70000]
+Non-GUI Mode
+computation time: 158 seconds 614 milliseconds
+collisions: 56712
+[4, 320, 50, 70000]
+Non-GUI Mode
+computation time: 143 seconds 435 milliseconds
+collisions: 53967
+[8, 320, 50, 70000]
+Non-GUI Mode
+computation time: 146 seconds 17 milliseconds
+collisions: 51757
+[16, 320, 50, 70000]
+Non-GUI Mode
+computation time: 149 seconds 253 milliseconds
+collisions: 48465
+[32, 320, 50, 70000]
+Non-GUI Mode
+computation time: 157 seconds 831 milliseconds
+collisions: 56915
+[1, 320, 50, 70000]
+Non-GUI Mode
+computation time: 179 seconds 547 milliseconds
+collisions: 50807
+[2, 320, 50, 70000]
+Non-GUI Mode
+computation time: 158 seconds 970 milliseconds
+collisions: 57665
+[4, 320, 50, 70000]
+Non-GUI Mode
+computation time: 144 seconds 22 milliseconds
+collisions: 49912
+[8, 320, 50, 70000]
+Non-GUI Mode
+computation time: 153 seconds 773 milliseconds
+collisions: 50861
+[16, 320, 50, 70000]
+Non-GUI Mode
+computation time: 152 seconds 689 milliseconds
+collisions: 52105
+[32, 320, 50, 70000]
+Non-GUI Mode
+computation time: 166 seconds 267 milliseconds
+collisions: 46250

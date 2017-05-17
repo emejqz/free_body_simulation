@@ -1,0 +1,12 @@
+JFLAGS = javac
+
+.PHONY : all clean
+
+
+all : java
+
+java :
+	$(JFLAGS) *.java
+
+clean :
+	/bin/rm -f *.class
